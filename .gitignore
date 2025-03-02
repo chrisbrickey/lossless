@@ -1,9 +1,13 @@
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # Cache
 __pycache__
 
 # Configuration
 .idea
 .qodo
+
+# Environment
+anaconda_projects/
+
+# Jupyter
+.ipynb_checkpoints
+.virtual_documents/
