@@ -7,7 +7,8 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * TBD
 
 ## Build
-* TBD
+* To launch JupyterLabs:
+* `jupyter-lab`
 
 ## Test
 * TBD
