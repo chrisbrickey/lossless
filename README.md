@@ -7,11 +7,26 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * TBD
 
 ## Build
-* To launch Jupyter Lab: `jupyter-lab`
-* To launch Jupyter Notebook: `jupyter notebook`
+* Launch lab: `jupyter-lab`
+* Launch notebook: `jupyter notebook`
 
 ## Test
 * TBD
 
 ## Requirements
-* TBD
+* Jupyter
+* NumPy
+* Matplotlib
+
+## Environment 
+
+### Anaconda environment and package manager
+* `conda activate lossless`
+* `conda deactivate`
+* `conda install <package name>`
+
+### Pipenv environment manager
+* `source venv/bin/activate`
+
+### Pip package manager
+* `pip install <package name>`
