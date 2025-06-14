@@ -17,6 +17,7 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Jupyter
 * NumPy
 * Matplotlib
+* ipynb
 
 ## Environment 
 
