@@ -1,23 +1,22 @@
 # lossless
-Project work for 
-[Machine Learning Specialization](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization), 
+Project work for *Supervised Machine Learning: Regression and Classification*.
+
+This is course 1 of 3 from [Machine Learning Specialization](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization), 
 a professional certification offered by Stanford University and DeepLeaning.AI. 
 
 ## Projects & Features
-* TBD
+* Linear and Polynomial Regression with Gradient Descent
+* Logistic Regression with Gradient Descent
+* Regularization
 
 ## Build
 * Launch lab: `jupyter-lab`
 * Launch notebook: `jupyter notebook`
 
-## Test
-* TBD
-
 ## Requirements
 * Jupyter
 * NumPy
 * Matplotlib
-* ipynb
 
 ## Environment 
 
