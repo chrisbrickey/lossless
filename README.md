@@ -5,13 +5,12 @@ This is course 1 of 3 from [Machine Learning Specialization](https://online.stan
 a professional certification offered by Stanford University and DeepLeaning.AI. 
 
 ## Projects & Features
-* Linear and Polynomial Regression with Gradient Descent
-* Logistic Regression with Gradient Descent
+* Linear and Polynomial Regression
+* Logistic Regression
 * Regularization
 
 ## Build
-* Launch lab: `jupyter-lab`
-* Launch notebook: `jupyter notebook`
+* Launch lab: `jupyter-lab` or `uv run --with jupyter jupyter lab`
 
 ## Requirements
 * Jupyter
